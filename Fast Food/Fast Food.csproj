@@ -73,6 +73,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -87,6 +88,81 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-exit-line-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-exit-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-1-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-1-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart-angle-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart-angle-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bag-4-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bag-4-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-navigation-grid-1528-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-navigation-grid-1529-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burger-line-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burger-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drinks-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drinks-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\french-fries-illustration-2-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\french-fries-1-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ice-cream-outline-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ice-cream-sharp-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-5-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-person-profile-block-account-circle-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-person-profile-block-account-circle-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-svgrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-svgrepo-com %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
