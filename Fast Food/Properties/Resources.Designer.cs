@@ -63,6 +63,36 @@ namespace Fast_Food.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _ {
+            get {
+                object obj = ResourceManager.GetObject("-", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _469714858_18046502648328662_7329993019791870252_n_1024x819 {
+            get {
+                object obj = ResourceManager.GetObject("469714858_18046502648328662_7329993019791870252_n-1024x819", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _720223115243541001464 {
+            get {
+                object obj = ResourceManager.GetObject("720223115243541001464", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bag_4_svgrepo_com {
             get {
                 object obj = ResourceManager.GetObject("bag-4-svgrepo-com", resourceCulture);
@@ -243,6 +273,16 @@ namespace Fast_Food.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Introduction_The_Best_Mix_Grill_Restaurant_in_Sharjah {
+            get {
+                object obj = ResourceManager.GetObject("Introduction-The-Best-Mix-Grill-Restaurant-in-Sharjah", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap menu_navigation_grid_1528_svgrepo_com {
             get {
                 object obj = ResourceManager.GetObject("menu-navigation-grid-1528-svgrepo-com", resourceCulture);
@@ -256,6 +296,27 @@ namespace Fast_Food.Properties {
         internal static System.Drawing.Bitmap menu_navigation_grid_1529_svgrepo_com {
             get {
                 object obj = ResourceManager.GetObject("menu-navigation-grid-1529-svgrepo-com", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_hamburger_or_beef_burgers_with_cheese_and_french_fries_image_15656146 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-hamburger-or-beef-burgers-with-cheese-and-french-fries-image_15656146", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_taking_slice_picture_of_prepared_delicious_pizza_with_sausage_rings_and_image_15902897 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-taking-slice-picture-of-prepared-delicious-pizza-with-sausage-rings-and-i" +
+                        "mage_15902897", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

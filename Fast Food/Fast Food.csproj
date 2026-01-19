@@ -54,6 +54,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="loginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginFrm.Designer.cs">
+      <DependentUpon>loginFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="menuFrm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="loginFrm.resx">
+      <DependentUpon>loginFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="menuFrm.resx">
       <DependentUpon>menuFrm.cs</DependentUpon>
     </EmbeddedResource>
@@ -163,6 +172,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\setting-svgrepo-com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-hamburger-or-beef-burgers-with-cheese-and-french-fries-image_156561462.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\720223115243541001464.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Introduction-The-Best-Mix-Grill-Restaurant-in-Sharjah.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-taking-slice-picture-of-prepared-delicious-pizza-with-sausage-rings-and-image_15902897.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\469714858_18046502648328662_7329993019791870252_n-1024x819.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
